@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff715b</color>
+    <color name="colorPrimaryDark">#4c5454</color>
+    <color name="colorAccent">#1ea896</color>
+
+    <color name="greyDark">#4c5454</color>
+    <color name="greyLight">#ebeeee</color>
+    <color name="greyMedium">#92a3a3</color>
+    <color name="terracotta">#ff715b</color>
+    <color name="white">#ffffff</color>
+    <color name="cyan">#1ea896</color>
+    <color name="brown">#523f38</color>
+
+</resources>
