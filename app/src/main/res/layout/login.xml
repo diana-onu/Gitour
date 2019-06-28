@@ -14,33 +14,9 @@
             android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:src="@drawable/title"/>
-        <EditText
-            android:layout_width="200dp"
-            android:layout_height="wrap_content"
-            android:textColorHint="@color/greyMedium"
-            android:hint="@string/login_username"
-            android:gravity="center_horizontal"
-            android:background="@android:color/transparent"
-            />
-        <ImageView
-            android:layout_width="200dp"
-            android:layout_height="5dp"
-            android:src="@drawable/input_box"
-            android:layout_marginBottom="15dp"/>
-        <EditText
-            android:layout_width="200dp"
-            android:layout_height="wrap_content"
-            android:textColorHint="@color/greyMedium"
-            android:hint="@string/login_password"
-            android:gravity="center_horizontal"
-            android:background="@android:color/transparent"
-            />
-        <ImageView
-            android:layout_width="200dp"
-            android:layout_height="5dp"
-            android:src="@drawable/input_box"
-            android:layout_marginBottom="15dp"/>
+
         <Button
+            android:id="@+id/login_button"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:text="@string/login_button"

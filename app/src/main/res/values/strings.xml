@@ -2,6 +2,7 @@
     <string name="app_name">Gitour</string>
     <string name="login_username">Git username</string>
     <string name="login_password">Password</string>
-    <string name="login_button">Go!</string>
+    <string name="login_button">Sign in with Git</string>
+    <string name="login_wait">Redirecting...</string>
 
 </resources>
